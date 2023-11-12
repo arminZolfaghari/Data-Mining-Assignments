@@ -3,7 +3,7 @@
 ## [HW 1 - Data Preprocessing](https://github.com/arminZolfaghari/Data-Mining-Assignments/tree/main/HW%201%20-%20Data%20Preprocessing)
 This assignment is about preprocessing on ```iris-dataset```. I use famous libraries such as ```pandas```, ```scikit-learn```, and ```Matplotlib``` for this purpose.
 #### Steps:
-1. Handle ```missing values``` and find ```NaN values``` and fill them with proper values or remove them.
+1. Handle ```missing values```, find ```NaN values```, and fill them with proper values or remove them.
 2. Convert categorical features to numerical features by Label Encoding and ```One Hot Encoding```.
 3. Normalize data by using ```StandardScaler```.
 4. Reduce dimension with ```PCA (Principal Component Analysis)```.
@@ -15,10 +15,10 @@ This assignment is about creating a ```neural network``` to classify data in ```
 #### Steps in Part 1 (```make_circles``` dataset):
 1. Make 1500 circles.
 2. Split train and test dataset.
-3. Create a ```neural network```: without activation function, use ```binary_crossentropy``` for loss function, and use ```Adam optimizer```.
-4. Create a ```neural network```: with linear activation function, use ```binary_crossentropy``` for loss function, and use ```Adam optimizer```.
-5. Create a ```neural network```: with nonlinear activation function, use ```mean_squared_error``` for loss funcion and use ```Adam optimizer```.
-6. Create a ```nueral network```:  with nonlinear activation function, use ```binary_crossentropy``` for loss funcion and use manual learning rate instead of Adams.
+3. Create a ```neural network```: without an activation function, use ```binary_crossentropy``` for loss function, and use ```Adam optimizer```.
+4. Create a ```neural network```: with a linear activation function, use ```binary_crossentropy``` for the loss function, and use ```Adam optimizer```.
+5. Create a ```neural network```: with a nonlinear activation function, use ```mean_squared_error``` for the loss function and use ```Adam optimizer```.
+6. Create a ```neural network```:  with a nonlinear activation function, use ```binary_crossentropy``` for the loss function, and use a manual learning rate instead of Adams.
 7. Train the models.
 8. Plot loss and accuracy.
 
@@ -34,7 +34,7 @@ This assignment is about creating a ```neural network``` to classify data in ```
 ## [HW 3 - Clustering & Association Rules](https://github.com/arminZolfaghari/Data-Mining-Assignments/tree/main/HW%203%20-%20Clustering%20%26%20Association%20Rules)
 #### Steps Part 1 (Clustering):
 1. Working with ```KMeans``` library from ```sklearn.cluster``` and plotting the result.
-2. Determining efficient number of clusters with ```elbow``` method.
+2. Determining the efficient number of clusters using the ```elbow ``` method.
 3. Analyzing the performance of ```KMeans``` on clustering the complex datasets. 
 4. Working with ```load_digits``` dataset and clustering it.
 5. Dimension reduction with the ```Isomap``` method.
@@ -46,3 +46,7 @@ This assignment is about creating a ```neural network``` to classify data in ```
 2. Preprocess the dataset.
 3. Find ```frequent_items``` and print them.
 4. Extract association rules.
+
+## Contact
+If you have any questions, feel free to ask me: </br>
+:envelope_with_arrow:		arminzolfagharid@gmail.com
