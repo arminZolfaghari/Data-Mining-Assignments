@@ -25,6 +25,24 @@ This assignment is about creating a ```neural network``` to classify data in ```
 #### Steps in Part 2 (```fashion_mnist``` dataset):
 1. Load the dataset.
 2. Split train and test dataset.
-3. Create a ```convolutional neural network```: with 
+3. Create a ```convolutional neural network```: with ```Adam optimizer``` and ```categorical_crossentropy```.
+4. Train the model.
+5. Plot loss and accuracy.
+6. Print ```confusion_matrix``` and ```classification_report```.
+
 
 ## [HW 3 - Clustering & Association Rules](https://github.com/arminZolfaghari/Data-Mining-Assignments/tree/main/HW%203%20-%20Clustering%20%26%20Association%20Rules)
+#### Steps Part 1 (Clustering):
+1. Working with ```KMeans``` library from ```sklearn.cluster``` and plotting the result.
+2. Determining efficient number of clusters with ```elbow``` method.
+3. Analyzing the performance of ```KMeans``` on clustering the complex datasets. 
+4. Working with ```load_digits``` dataset and clustering it.
+5. Dimension reduction with the ```Isomap``` method.
+6. Using the ```DBSCAN``` algorithm to classify two datasets.
+7. Determining efficient value for ```Epsilon``` and ```MinPts```.
+
+#### Part 2 (Association Rules):
+1. Work with the ```Apriori``` algorithm.
+2. Preprocess the dataset.
+3. Find ```frequent_items``` and print them.
+4. Extract association rules.
