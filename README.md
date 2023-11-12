@@ -23,5 +23,8 @@ This assignment is about creating a ```neural network``` to classify data in ```
 8. Plot loss and accuracy.
 
 #### Steps in Part 2 (```fashion_mnist``` dataset):
+1. Load the dataset.
+2. Split train and test dataset.
+3. Create a ```convolutional neural network```: with 
 
 ## [HW 3 - Clustering & Association Rules](https://github.com/arminZolfaghari/Data-Mining-Assignments/tree/main/HW%203%20-%20Clustering%20%26%20Association%20Rules)
