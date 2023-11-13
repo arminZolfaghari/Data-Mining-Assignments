@@ -1,4 +1,4 @@
-# Data Mining Coding Assignments
+# Data Mining Course Programming Assignments
 
 ## [HW 1 - Data Preprocessing](https://github.com/arminZolfaghari/Data-Mining-Assignments/tree/main/HW%201%20-%20Data%20Preprocessing)
 This assignment is about preprocessing on ```iris-dataset```. I use famous libraries such as ```pandas```, ```scikit-learn```, and ```Matplotlib``` for this purpose.
